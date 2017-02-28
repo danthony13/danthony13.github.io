@@ -1,0 +1,26 @@
+body{
+  padding-top: 64px;
+  background-color: gray;
+}
+#intro{
+  font-size: 24px;
+}
+#profile{
+  margin-bottom: 20%;
+}
+.page{
+  background-color: #f3f3f3;
+  margin-top: 3px;
+  border-radius: 14px;
+}
+.col-md-4 i{
+  display: block;
+  text-align: center;
+}
+.col-md-8 i{
+  display: block;
+  text-align: center;
+}
+.col-md-4 i:hover{
+  color: blue;
+}
