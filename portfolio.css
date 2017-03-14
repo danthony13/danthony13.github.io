@@ -21,7 +21,10 @@ body{
 }
 #page1{
   background-color: #2E2E3A;
+<<<<<<< HEAD
   min-height: 100%;
+=======
+>>>>>>> 7d6532c0da5432fce1be8ab51305fc5800526299
 }
 #page2{
   background-color: #6E7DAB;
